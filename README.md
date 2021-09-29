@@ -7,7 +7,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
 - 😄 Pronomes: ela/dela.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/manuela-gadelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-gadelho&layout=compact&langs_count=7&theme=outrun"/>
 </div>
@@ -21,7 +21,8 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="right" style="border-radius:50px;"> <img src="https://i.picasion.com/pic91/c85c8168d6aea29533fdd7b1f604f2a6.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br>                              <a href="https://picasion.com/"> </a>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img align="right" style="border-radius:35px;"> <img src="https://i.picasion.com/pic91/c85c8168d6aea29533fdd7b1f604f2a6.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br>                              <a href="https://picasion.com/"> </a>
 </div>
   
   ##
