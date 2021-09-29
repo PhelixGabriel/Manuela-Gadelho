@@ -29,7 +29,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <a href="https://instagram.com/magadelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manuuu_gadelho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/QCQrQzhy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:manugadelho@protonmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprotonvpn.com%2Fpt_br%2Fpress&psig=AOvVaw3hpVU9umTh175jkhlNJOTG&ust=1632966418833000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIDTrImIo_MCFQAAAAAdAAAAABAD" target="_blank"></a>
+  <a href = "mailto:manugadelho@protonmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprotonvpn.com%2Fpt%2Fpress&psig=AOvVaw1E9fUI9QMwkbQ3vzmZeI_H&ust=1632966478991000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLiN9KWIo_MCFQAAAAAdAAAAABAQ" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manuela-gadelho-44271b221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
