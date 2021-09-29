@@ -32,6 +32,6 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <a href = "mailto:manugadelho@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/manuela-gadelho-44271b221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/manuela-gadelho/manuela-gadelho/blob/output/github-contribution-grid-snake.svg)
  
 </div>
