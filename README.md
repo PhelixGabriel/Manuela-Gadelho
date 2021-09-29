@@ -22,7 +22,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  <img align="right" style="border-radius:35px;"> <img="my-octocat-1632927808878.png" width="300" height="300" border="0"></a><br>                          
+  <img align="right" style="border-radius:35px;"> <img src="my-octocat-1632927808878.png" width="300" height="300" border="0"></a><br>                          
   <a href="https://www.youtube.com/channel/UCx9WTK1q7HlLhIAhQ2LugVQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/magadelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manuuu_gadelho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
