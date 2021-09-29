@@ -29,9 +29,11 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <a href="https://instagram.com/magadelho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manuuu_gadelho" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/QCQrQzhy" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://steamcommunity.com/id/manumoreira/" img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   <a href = "mailto:manugadelho@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/manuela-gadelho-44271b221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://steamcommunity.com/id/manumoreira/" img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  
+  
   ![Snake animation](https://github.com/Manuela-Gadelho/Manuela-Gadelho/tree/main/.github/workflows)
  
 </div>
