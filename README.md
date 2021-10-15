@@ -10,7 +10,7 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
   <a href="https://github.com/manuela-gadelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-gadelho&layout=compact&langs_count=7&theme=outrun"/>
-  
+    </div>
 <div style="display: inline_block"><br>
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
