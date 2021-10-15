@@ -5,10 +5,11 @@ Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
 - 💬 Pergunte-me sobre Front-end;
 - 😄 Pronomes: ela/dela.
 
-<div align="center">
+<div align="center" style="display: inline_block">
+  
   <a href="https://github.com/manuela-gadelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuela-Gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuela-Gadelho&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manuela-gadelho&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuela-gadelho&layout=compact&langs_count=7&theme=outrun"/>
   
 <div style="display: inline_block"><br>
   
