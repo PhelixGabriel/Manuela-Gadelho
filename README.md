@@ -1,7 +1,7 @@
 Oi, bem-vindo(a) ao meu perfil nesse site do gatinho...
 
 - 🔭 Atualmente estou trabalhando na área acadêmica; 
-- 🌱 Estudando MySQL e Python;
+- 🌱 Estudando MySQL e PHP;
 - 💬 Pergunte-me sobre Front-end;
 - 😄 Pronomes: ela/dela.
 
